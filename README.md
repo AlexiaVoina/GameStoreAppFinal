@@ -1,63 +1,68 @@
-# GameStoreAppFinal
-Online video game store
+ # 🎮 Game Store App
 
-Application Description:
+**An Online Video Game Store for Gamers, Developers, and Administrators**
 
-Our App is a game store application that allows users to browse, search, and purchase video games from a variety of genres (action, RPG, puzzle, etc.). Customers can review purchased games to help others make informed decisions. The platform supports multiple payment methods, such as PayPal, Visa, and Apple Card. Administrators can manage users, apply discounts, or delete games, while developers can publish and modify games.
+---
 
+## 📜 Application Description:
 
-Feature list:
+Game Store App is an all-in-one platform that allows users to **browse, search, and purchase** video games from a variety of genres, including **Action, RPG, Puzzle, and more**. Customers can review purchased games to assist other users in making informed decisions. The platform supports **multiple payment methods**, such as **PayPal, Visa, and Apple Card**. 
 
+👤 **Administrators** can manage users, apply discounts, and remove games.  
+👨‍💻 **Developers** can publish and modify their games.  
+🛍 **Customers** can purchase and review games with ease.  
 
-General Features:
+---
 
-Full CRUD operations for users, games, and orders.
-Sorting and filtering methods to facilitate catalog navigation.
-Advanced systems for managing digital wallets and order history.
+## Key Features:
 
+### ⚙ General Features:
+- Full **CRUD operations** for users, games, and orders.  
+- **Sorting & filtering** for easy catalog navigation.  
+- **Digital wallets** and **order history management**.  
 
-Customer Features:
+### 🎮 Customer Features:
+- **Browse** the game catalog with advanced filters (genre, price range).  
+- **Add games** to a shopping cart and complete purchases.  
+- **Review** purchased games to help others.  
+- **Add funds** to an in-app wallet using various payment methods.  
+- **View past orders** and track purchase history.  
 
-Navigate the game catalog with filtering options by genre and price range.
-Add games to the shopping cart and complete purchases.
-Ability to review purchased games.
-Add funds to the platform wallet through various payment methods.
-View order history.
+### 🛠 Developer Features:
+- **Publish** games and set pricing.  
+- **Modify game details** (title, description, price, etc.).  
 
+### 👑 Administrator Features:
+- **Manage user database**, including the ability to delete users by email.  
+- **Apply discounts** and manage promotional campaigns.  
+- **Delete games** from the store catalog.  
 
-Developer Features:
+### 🚀 Advanced Features:
+- **Advanced Sorting** – Sort games by price, rating, or name.   
+- **Order History** – Users can view past orders with detailed insights.  
+- **Discount System** – Admins can configure sales and promotional events.  
 
-Publish games and set their prices.
-Modify details of published games.
+---
 
+## 🎯 Application Objectives:
+- Provide a **seamless** game shopping and reviewing experience.  
+- Ensure an **intuitive** interface for all user types.  
+- Efficiently manage **inventory, payments, and user interactions**.  
 
-Administrator Features:
+---
 
-Manage the user database, including deleting users by email.
-Apply discounts and delete games from the catalog.
+## 📌 How to Use the Application:
+1. **🔐 Authentication**: Users must log in to access features.  
+2. **🕹 Browsing**: Explore the game catalog and filter results.  
+3. **🛍 Shopping**: Add games to the cart and complete purchases securely.  
+4. **⭐ Reviewing**: Share experiences by reviewing purchased games.  
+5. **⚙ Management**: Admins and developers use dedicated panels for content control.  
 
+---
 
-Advanced Features:
+## 📌 UML Diagram:
+![UML Diagram](https://github.com/user-attachments/assets/38129598-0fa5-4494-928e-03cac63b8117)  
 
-Advanced Sorting: Users can sort games by price and name.
-Combined Filtering: Filter options on multiple parameters simultaneously.
-Order History: Users can view details of past orders.
-Discount System: Administrators can set up promotional campaigns for games.
+---
 
-
-Application Objectives:
-
-Provide a seamless experience for purchasing and reviewing games.
-Ensure an intuitive interface for all user types.
-Efficiently manage the game inventory and user orders.
-
-
-How to Use the Application:
-1. Authentication: Users must log in to access the application's features.
-2. Browsing: Access the game catalog to view available offers.
-3. Shopping: Add games to the cart and finalize purchases.
-4. Reviewing: Provide reviews for purchased games.
-5. Management: Administrators and developers can use dedicated panels to manage content.
-
-UML:
-![umlfinalgamestoreapp](https://github.com/user-attachments/assets/38129598-0fa5-4494-928e-03cac63b8117)
+🚀 **Game Store App – Your ultimate online game store experience!** 🎮🔥
